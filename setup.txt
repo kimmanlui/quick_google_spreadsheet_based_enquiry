@@ -1,0 +1,7 @@
+; This is a sample configuration file
+; Comments start with ';', as in php.ini
+
+
+masterUrl="https://docs.google.com/spreadsheets/d/e/2PACX-1vQo2_1N7wOb-tUOynxDFky5ZA8HUBMlGIGmCt7C5snWY91-6SSLBl5HlWxPzRKFRP2ywPDSDXgG8nXW/pub?gid=0&single=true&output=csv"
+
+logFile="loginHistory.txt"
